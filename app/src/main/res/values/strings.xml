@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestOra</string>
+    <string name="model">model</string>
+    <string name="ip_address">IP Address</string>
+    <string name="mac_address">Mac address</string>
+    <string name="add">ADD</string>
+    <string name="title">Title</string>
+</resources>

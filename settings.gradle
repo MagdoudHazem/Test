@@ -1,0 +1,2 @@
+rootProject.name='TestOra'
+include ':app'
